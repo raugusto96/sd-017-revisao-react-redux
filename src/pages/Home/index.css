@@ -1,0 +1,10 @@
+.button-content {
+  align-items: center;
+  background-image: url('https://bnetcmsus-a.akamaihd.net/cms/content_entry_media/5AF2GIABW1K11589912849914.jpg');
+  background-size: cover;
+  background-position-x: center;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  width: 100vw;
+}
