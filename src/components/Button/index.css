@@ -13,19 +13,3 @@
   -webkit-box-shadow: 5px 5px 3px 0px rgba(0,0,0,0.46); 
   width: 20%;
 }
-
-.clicked-init-button {
-  background: linear-gradient(5deg, rgb(233, 89, 84) 0%, rgb(213, 39, 39) 100%);
-  border:black solid 1px;
-  border-radius: 13px;
-  border-style: none;
-  box-shadow: 5px 5px 3px 0px rgba(0,0,0,0.46);
-  color: white;
-  cursor: pointer;
-  font-size: 1.3em;
-  height: 5%;
-  letter-spacing: 0.2rem;
-  text-transform: uppercase;
-  -webkit-box-shadow: 5px 5px 3px 0px rgba(0,0,0,0.46); 
-  width: 20%;
-}
